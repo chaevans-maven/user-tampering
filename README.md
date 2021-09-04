@@ -6,12 +6,9 @@ Author: Charles Evans
 
 Email: u6942700@anu.edu.au
 
-Unless otherwise indicated, everything presently in this repo is my own original work, and forms my artefact contribution
-for COMP3770, Semester 1, 2021.
-
 ## Contents
 
-This repo contains the experimental setup used to generate the empirical results in my report, "User Tampering in
+This repo contains the experimental setup used to generate the empirical results in my paper, "User Tampering in
 Reinforcement Learning Media Recommender Systems,"  which demonstrates a Q-learning algorithm learning to 
 tamper with user's content preferences on a media platform. The repo's contents are as follows:
 
